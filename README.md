@@ -1,1 +1,3 @@
-"# learn-go" 
+# learn-go
+
+Aprendiendo sobre Go
